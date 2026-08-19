@@ -1,0 +1,1163 @@
+[ 
+    { 
+        "Name": "勝田運転区", 
+        "Works": [ 
+            { 
+                "AffectDate": "2023-03-18", 
+                "Name": "平B18行路", 
+                "Trains": [ 
+                    { 
+                        "TrainNumber": "622M", 
+                        "BeginRemarks": "JRETS未収録", 
+                        "Direction": -1, 
+                        "TimetableRows": [ 
+                            { 
+                                "Departure": "9:58:", 
+                                "StationName": "勝田" 
+                            }, 
+                            { 
+                                "Arrive": "11:05:", 
+                                "IsLastStop": true, 
+                                "StationName": "土浦" 
+                            } 
+                        ] 
+                    }, 
+                    { 
+                        "TrainNumber": "1170M", 
+                        "BeginRemarks": "JRETS未収録", 
+                        "Direction": -1, 
+                        "TimetableRows": [ 
+                            { 
+                                "Departure": "11:57:", 
+                                "StationName": "土浦" 
+                            }, 
+                            { 
+                                "Arrive": "13:18:", 
+                                "IsLastStop": true, 
+                                "StationName": "品川" 
+                            } 
+                        ] 
+                    }, 
+                    { 
+                        "TrainNumber": "1177M", 
+                        "BeginRemarks": "<span style=\"color:#000000;\">①品川発線8番変　②東京到着7番変</span><br><span style=\"color:#ff0000;\">注意：ひたち野で「ひたち17号」を退避せず、着線3番変</span>", 
+                        "CarCount": 10, 
+                        "Direction": 1, 
+                        "MaxSpeed": "110\nウエ～130", 
+                        "NominalTractiveCapacity": "E531系\n4M6T", 
+                        "SpeedType": "停電A19\nトテ～停電A20\nツチ～停電A13", 
+                        "TimetableRows": [ 
+                            { 
+                                "DriveTime_MM": 5, 
+                                "StationName": "品川", 
+                                "Departure": "14:17:30", 
+                                "TrackName": "８", 
+                                "RunOutLimit": 35, 
+                                "Remarks": "発線8変", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 2, 
+                                "DriveTime_SS": 45, 
+                                "StationName": "新橋", 
+                                "Arrive": ":22:30", 
+                                "Departure": ":23:", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 5, 
+                                "StationName": "東京", 
+                                "Arrive": ":25:45", 
+                                "Departure": ":26:45", 
+                                "TrackName": "７", 
+                                "RunInLimit": 45, 
+                                "RunOutLimit": 55, 
+                                "Remarks": "着線7変", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 3, 
+                                "DriveTime_SS": 15, 
+                                "StationName": "上野", 
+                                "Arrive": "14:31:45", 
+                                "Departure": "14:32:45", 
+                                "TrackName": "６", 
+                                "RunInLimit": 45, 
+                                "RunOutLimit": 35, 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 2, 
+                                "StationName": "日暮里", 
+                                "Arrive": "14:36:", 
+                                "Departure": "14:36:30", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 2, 
+                                "DriveTime_SS": 30, 
+                                "StationName": "三河島", 
+                                "Arrive": ":38:30", 
+                                "Departure": ":39:", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 2, 
+                                "DriveTime_SS": 15, 
+                                "StationName": "南千住", 
+                                "Arrive": "14:41:30", 
+                                "Departure": "14:42:", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 4, 
+                                "DriveTime_SS": 45, 
+                                "StationName": "北千住", 
+                                "Arrive": "14:44:15", 
+                                "Departure": "14:44:45", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 3, 
+                                "DriveTime_SS": 30, 
+                                "StationName": "金町", 
+                                "Arrive": "↓", 
+                                "Departure": ":49:30", 
+                                "IsPass": true, 
+                                "TrackName": "３", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 2, 
+                                "DriveTime_SS": 30, 
+                                "StationName": "松戸", 
+                                "Arrive": "14:53:", 
+                                "Departure": "14:53:30", 
+                                "TrackName": "１", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 2, 
+                                "DriveTime_SS": 30, 
+                                "StationName": "馬橋", 
+                                "Arrive": "↓", 
+                                "Departure": ":56:", 
+                                "IsPass": true, 
+                                "TrackName": "５", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 3, 
+                                "DriveTime_SS": 30, 
+                                "StationName": "北小金", 
+                                "Arrive": "↓", 
+                                "Departure": ":58:30", 
+                                "IsPass": true, 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 2, 
+                                "DriveTime_SS": 30, 
+                                "StationName": "柏", 
+                                "Arrive": "15:02:", 
+                                "Departure": "15:02:30", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 1, 
+                                "DriveTime_SS": 30, 
+                                "StationName": "北柏", 
+                                "Arrive": "↓", 
+                                "Departure": ":05:", 
+                                "IsPass": true, 
+                                "TrackName": "４", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 2, 
+                                "DriveTime_SS": 30, 
+                                "StationName": "我孫子", 
+                                "Arrive": "15:06:30", 
+                                "Departure": "15:07:", 
+                                "TrackName": "１", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 3, 
+                                "StationName": "天王台", 
+                                "Arrive": ":09:30", 
+                                "Departure": ":10:", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 4, 
+                                "DriveTime_SS": 30, 
+                                "StationName": "取手", 
+                                "Arrive": "15:13:", 
+                                "Departure": "15:13:30", 
+                                "TrackName": "６", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "Location_m": 0, 
+                                "RecordType": 2, 
+                                "StationName": "<span style=\"color:#5B7EE5;\">交　直　切　替</span>" 
+                            }, 
+                            { 
+                                "DriveTime_MM": 3, 
+                                "StationName": "藤代", 
+                                "Arrive": ":18:", 
+                                "Departure": ":18:30", 
+                                "RunInLimit": 110, 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 4, 
+                                "DriveTime_SS": 15, 
+                                "StationName": "龍ケ崎市", 
+                                "Arrive": "15:21:30", 
+                                "Departure": "15:22:15", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 4, 
+                                "StationName": "牛久", 
+                                "Arrive": "15:26:30", 
+                                "Departure": "15:27:", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 3, 
+                                "StationName": "ひたち野", 
+                                "FullName": "ひたち野うしく", 
+                                "Arrive": ":31:", 
+                                "Departure": ":35:", 
+                                "TrackName": "<span style=\"text-decoration:line-through;\">４</span>", 
+                                "Remarks": "後続遅れ発生\n着線3変", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 5, 
+                                "DriveTime_SS": 30, 
+                                "StationName": "荒川沖", 
+                                "Arrive": ":38:", 
+                                "Departure": ":38:30", 
+                                "RunInLimit": 120, 
+                                "RunOutLimit": 120, 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 5, 
+                                "StationName": "土浦", 
+                                "Arrive": "15:44:", 
+                                "Departure": "15:51:", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 4, 
+                                "DriveTime_SS": 45, 
+                                "StationName": "神立", 
+                                "Arrive": ":56:", 
+                                "Departure": ":56:30", 
+                                "RunOutLimit": 120, 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 3, 
+                                "DriveTime_SS": 15, 
+                                "StationName": "高浜", 
+                                "Arrive": "16:01:15", 
+                                "Departure": ":01:45", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 4, 
+                                "DriveTime_SS": 45, 
+                                "StationName": "石岡", 
+                                "Arrive": "16:05:", 
+                                "Departure": "16:05:30", 
+                                "RunOutLimit": 95, 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 4, 
+                                "StationName": "羽鳥", 
+                                "Arrive": ":10:15", 
+                                "Departure": ":10:45", 
+                                "RunOutLimit": 80, 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 5, 
+                                "StationName": "岩間", 
+                                "Arrive": ":14:45", 
+                                "Departure": ":15:15", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 3, 
+                                "DriveTime_SS": 30, 
+                                "StationName": "友部", 
+                                "Arrive": "16:20:15", 
+                                "Departure": "16:20:45", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 4, 
+                                "DriveTime_SS": 15, 
+                                "StationName": "内原", 
+                                "Arrive": ":24:15", 
+                                "Departure": ":24:45", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 6, 
+                                "StationName": "赤塚", 
+                                "Arrive": "16:29:", 
+                                "Departure": "16:29:30", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 6, 
+                                "StationName": "水戸", 
+                                "Arrive": "16:35:30", 
+                                "Departure": "16:42:", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "StationName": "勝田", 
+                                "Arrive": "16:48:", 
+                                "IsLastStop": true, 
+                                "RunInLimit": 35, 
+                                "TrackName": "中", 
+                                "Location_m": 0 
+                            } 
+                        ] 
+                    } 
+                ] 
+            } 
+        ] 
+    }, 
+    { 
+        "Name": "土浦運転区", 
+        "Works": [ 
+            { 
+                "AffectDate": "2024-03-16", 
+                "Name": "平B10行路", 
+                "Trains": [ 
+                    { 
+                        "TrainNumber": "1120M", 
+                        "BeginRemarks": "JRETS未収録", 
+                        "Direction": -1, 
+                        "TimetableRows": [ 
+                            { 
+                                "Departure": "5:22:30", 
+                                "StationName": "土浦" 
+                            }, 
+                            { 
+                                "Arrive": "6:43:45", 
+                                "IsLastStop": true, 
+                                "StationName": "品川" 
+                            } 
+                        ] 
+                    }, 
+                    { 
+                        "TrainNumber": "1135M", 
+                        "CarCount": 15, 
+                        "Direction": 1, 
+                        "MaxSpeed": "110\nウエ～130", 
+                        "NominalTractiveCapacity": "E531系\n6M9T", 
+                        "SpeedType": "停電A19\nトテ～停電A20", 
+                        "TimetableRows": [ 
+                            { 
+                                "DriveTime_MM": 5, 
+                                "StationName": "品川", 
+                                "Departure": "7:22:", 
+                                "TrackName": "<span style=\"text-decoration:line-through;\">１０</span>", 
+                                "RunOutLimit": 35, 
+                                "Remarks": "発線8変", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 3, 
+                                "DriveTime_SS": 15, 
+                                "StationName": "新橋", 
+                                "Arrive": ":27:", 
+                                "Departure": ":27:30", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 5, 
+                                "DriveTime_SS": 30, 
+                                "StationName": "東京", 
+                                "Arrive": ":30:45", 
+                                "Departure": ":32:30", 
+                                "TrackName": "７", 
+                                "RunInLimit": 45, 
+                                "RunOutLimit": 55, 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 3, 
+                                "StationName": "上野", 
+                                "Arrive": "7:38:", 
+                                "Departure": "7:41:", 
+                                "TrackName": "６", 
+                                "RunInLimit": 45, 
+                                "RunOutLimit": 35, 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 1, 
+                                "DriveTime_SS": 45, 
+                                "StationName": "日暮里", 
+                                "Arrive": "7:44:", 
+                                "Departure": "7:44:30", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 2, 
+                                "DriveTime_SS": 30, 
+                                "StationName": "三河島", 
+                                "Arrive": ":46:15", 
+                                "Departure": ":46:45", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 2, 
+                                "StationName": "南千住", 
+                                "Arrive": ":49:15", 
+                                "Departure": ":49:45", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 4, 
+                                "DriveTime_SS": 45, 
+                                "StationName": "北千住", 
+                                "Arrive": "7:51:45", 
+                                "Departure": "7:52:15", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 3, 
+                                "DriveTime_SS": 15, 
+                                "StationName": "金町", 
+                                "Arrive": "↓", 
+                                "Departure": ":57:", 
+                                "IsPass": true, 
+                                "TrackName": "３", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 2, 
+                                "DriveTime_SS": 30, 
+                                "StationName": "松戸", 
+                                "Arrive": "8:00:15", 
+                                "Departure": "8:01:", 
+                                "TrackName": "１", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 2, 
+                                "StationName": "馬橋", 
+                                "Arrive": "↓", 
+                                "Departure": ":03:30", 
+                                "IsPass": true, 
+                                "TrackName": "５", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 3, 
+                                "DriveTime_SS": 15, 
+                                "StationName": "北小金", 
+                                "Arrive": "↓", 
+                                "Departure": ":05:30", 
+                                "IsPass": true, 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 2, 
+                                "StationName": "柏", 
+                                "Arrive": "8:08:45", 
+                                "Departure": "8:09:15", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 1, 
+                                "DriveTime_SS": 45, 
+                                "StationName": "北柏", 
+                                "Arrive": "↓", 
+                                "Departure": ":11:15", 
+                                "IsPass": true, 
+                                "TrackName": "４", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 2, 
+                                "DriveTime_SS": 30, 
+                                "StationName": "我孫子", 
+                                "Arrive": "8:13:", 
+                                "Departure": "8:13:30", 
+                                "TrackName": "１", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 3, 
+                                "StationName": "天王台", 
+                                "Arrive": ":16:", 
+                                "Departure": ":16:30", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 4, 
+                                "DriveTime_SS": 15, 
+                                "StationName": "取手", 
+                                "Arrive": "8:19:30", 
+                                "Departure": "8:20:", 
+                                "TrackName": "６", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "Location_m": 0, 
+                                "RecordType": 2, 
+                                "StationName": "<span style=\"color:#5B7EE5;\">交　直　切　替</span>" 
+                            }, 
+                            { 
+                                "DriveTime_MM": 2, 
+                                "DriveTime_SS": 15, 
+                                "StationName": "藤代", 
+                                "Arrive": ":24:15", 
+                                "Departure": ":24:45", 
+                                "RunInLimit": 110, 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 3, 
+                                "DriveTime_SS": 45, 
+                                "StationName": "龍ケ崎市", 
+                                "Arrive": "8:27:", 
+                                "Departure": "8:27:30", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 3, 
+                                "DriveTime_SS": 15, 
+                                "StationName": "牛久", 
+                                "Arrive": "8:31:15", 
+                                "Departure": "8:31:45", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 2, 
+                                "DriveTime_SS": 30, 
+                                "StationName": "ひたち野", 
+                                "FullName": "ひたち野うしく", 
+                                "Arrive": ":35:", 
+                                "Departure": ":35:30", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 7, 
+                                "DriveTime_SS": 45, 
+                                "StationName": "荒川沖", 
+                                "Arrive": ":38:", 
+                                "Departure": ":38:30", 
+                                "RunInLimit": 120, 
+                                "RunOutLimit": 120, 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "StationName": "土浦", 
+                                "Arrive": "8:46:15", 
+                                "IsLastStop": true, 
+                                "TrackName": "<span style=\"text-decoration:line-through;\">上１</span>", 
+                                "Remarks": "着線下本変", 
+                                "Location_m": 0 
+                            } 
+                        ] 
+                    }, 
+                    { 
+                        "TrainNumber": "343M", 
+                        "BeginRemarks": "JRETS未収録", 
+                        "Direction": 1, 
+                        "TimetableRows": [ 
+                            { 
+                                "Departure": "10:06:", 
+                                "StationName": "土浦" 
+                            }, 
+                            { 
+                                "Arrive": "11:05:", 
+                                "IsLastStop": true, 
+                                "StationName": "勝田" 
+                            } 
+                        ] 
+                    }, 
+                    { 
+                        "TrainNumber": "630M", 
+                        "BeginRemarks": "JRETS未収録", 
+                        "Direction": -1, 
+                        "TimetableRows": [ 
+                            { 
+                                "Departure": "11:26:", 
+                                "StationName": "勝田" 
+                            }, 
+                            { 
+                                "Arrive": "12:32:30", 
+                                "IsLastStop": true, 
+                                "StationName": "土浦" 
+                            } 
+                        ] 
+                    } 
+                ] 
+            }, 
+            { 
+                "AffectDate": "2024-03-16", 
+                "Name": "平B16行路", 
+                "Trains": [ 
+                    { 
+                        "TrainNumber": "1144M", 
+                        "BeginRemarks": "JRETS未収録", 
+                        "Direction": -1, 
+                        "TimetableRows": [ 
+                            { 
+                                "Departure": "7:57:17", 
+                                "StationName": "土浦" 
+                            }, 
+                            { 
+                                "Arrive": "9:31:", 
+                                "IsLastStop": true, 
+                                "StationName": "品川" 
+                            } 
+                        ] 
+                    }, 
+                    { 
+                        "TrainNumber": "便1151M", 
+                        "BeginRemarks": "JRETS未収録", 
+                        "Direction": 1, 
+                        "IsRideOnMoving": true, 
+                        "TimetableRows": [ 
+                            { 
+                                "Departure": "9:52:30", 
+                                "StationName": "品川" 
+                            }, 
+                            { 
+                                "Arrive": "11:21:", 
+                                "IsLastStop": true, 
+                                "StationName": "土浦" 
+                            } 
+                        ] 
+                    }, 
+                    { 
+                        "TrainNumber": "1176M", 
+                        "BeginRemarks": "JRETS未収録", 
+                        "Direction": -1, 
+                        "TimetableRows": [ 
+                            { 
+                                "Departure": "12:57:", 
+                                "StationName": "土浦" 
+                            }, 
+                            { 
+                                "Arrive": "14:18:", 
+                                "IsLastStop": true, 
+                                "StationName": "品川" 
+                            } 
+                        ] 
+                    }, 
+                    { 
+                        "TrainNumber": "3181M", 
+                        "CarCount": 15, 
+                        "Direction": 1, 
+                        "MaxSpeed": "110\nウエ～130", 
+                        "NominalTractiveCapacity": "E531系\n6M9T", 
+                        "SpeedType": "通電A19\nトテ～停電A20", 
+                        "TrainInfo": "<span style=\"color:#FF0000;\">通過設定注意</span>", 
+                        "TimetableRows": [ 
+                            { 
+                                "DriveTime_MM": 5, 
+                                "StationName": "品川", 
+                                "Arrive": "14:38:30", 
+                                "HasBracket": true, 
+                                "Departure": "14:55:", 
+                                "TrackName": "<span style=\"text-decoration:line-through;\">１０</span>", 
+                                "RunOutLimit": 35, 
+                                "Remarks": "発線8変", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 3, 
+                                "StationName": "新橋", 
+                                "Arrive": "15:00:", 
+                                "Departure": ":00:30", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 5, 
+                                "StationName": "東京", 
+                                "Arrive": ":03:30", 
+                                "Departure": ":05:", 
+                                "TrackName": "７", 
+                                "RunInLimit": 45, 
+                                "RunOutLimit": 55, 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 3, 
+                                "StationName": "上野", 
+                                "Arrive": "15:10:", 
+                                "Departure": "15:11:", 
+                                "TrackName": "６", 
+                                "RunInLimit": 45, 
+                                "RunOutLimit": 35, 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 2, 
+                                "DriveTime_SS": 30, 
+                                "StationName": "日暮里", 
+                                "Arrive": "15:14:", 
+                                "Departure": "15:14:30", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 1, 
+                                "DriveTime_SS": 45, 
+                                "StationName": "三河島", 
+                                "Arrive": "↓", 
+                                "Departure": ":16:", 
+                                "IsPass": true, 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 1, 
+                                "DriveTime_SS": 45, 
+                                "StationName": "南千住", 
+                                "Arrive": "↓", 
+                                "Departure": ":17:45", 
+                                "IsPass": true, 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 4, 
+                                "DriveTime_SS": 45, 
+                                "StationName": "北千住", 
+                                "Arrive": "15:19:30", 
+                                "Departure": "15:20:", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 3, 
+                                "StationName": "金町", 
+                                "Arrive": "↓", 
+                                "Departure": ":24:45", 
+                                "IsPass": true, 
+                                "TrackName": "３", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 2, 
+                                "DriveTime_SS": 30, 
+                                "StationName": "松戸", 
+                                "Arrive": "15:27:45", 
+                                "Departure": "15:28:15", 
+                                "TrackName": "１", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 1, 
+                                "DriveTime_SS": 45, 
+                                "StationName": "馬橋", 
+                                "Arrive": "↓", 
+                                "Departure": ":30:45", 
+                                "IsPass": true, 
+                                "TrackName": "５", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 3, 
+                                "DriveTime_SS": 15, 
+                                "StationName": "北小金", 
+                                "Arrive": "↓", 
+                                "Departure": ":32:30", 
+                                "IsPass": true, 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 2, 
+                                "StationName": "柏", 
+                                "Arrive": "15:35:45", 
+                                "Departure": "15:36:15", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 1, 
+                                "DriveTime_SS": 15, 
+                                "StationName": "北柏", 
+                                "Arrive": "↓", 
+                                "Departure": ":38:15", 
+                                "IsPass": true, 
+                                "TrackName": "４", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "StationName": "我孫子", 
+                                "Arrive": "↓", 
+                                "Departure": "15:39:30", 
+                                "IsPass": true, 
+                                "TrackName": "１", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 4, 
+                                "DriveTime_SS": 30, 
+                                "StationName": "天王台", 
+                                "Arrive": "↓", 
+                                "Departure": "↓", 
+                                "IsPass": true, 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 4, 
+                                "DriveTime_SS": 15, 
+                                "StationName": "取手", 
+                                "Arrive": "15:44:", 
+                                "Departure": "15:44:30", 
+                                "TrackName": "６", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "Location_m": 0, 
+                                "RecordType": 2, 
+                                "StationName": "<span style=\"color:#5B7EE5;\">交　直　切　替</span>" 
+                            }, 
+                            { 
+                                "DriveTime_MM": 2, 
+                                "DriveTime_SS": 15, 
+                                "StationName": "藤代", 
+                                "Arrive": ":48:45", 
+                                "Departure": ":49:15", 
+                                "RunInLimit": 110, 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 3, 
+                                "DriveTime_SS": 45, 
+                                "StationName": "龍ケ崎市", 
+                                "Arrive": "15:51:30", 
+                                "Departure": "15:52:", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 3, 
+                                "DriveTime_SS": 15, 
+                                "StationName": "牛久", 
+                                "Arrive": "15:55:45", 
+                                "Departure": "15:56:15", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 2, 
+                                "DriveTime_SS": 30, 
+                                "StationName": "ひたち野", 
+                                "FullName": "ひたち野うしく", 
+                                "Arrive": ":59:30", 
+                                "Departure": "16:00:", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 5, 
+                                "DriveTime_SS": 15, 
+                                "StationName": "荒川沖", 
+                                "Arrive": ":02:30", 
+                                "Departure": ":03:", 
+                                "RunInLimit": 120, 
+                                "RunOutLimit": 120, 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "StationName": "土浦", 
+                                "Arrive": "16:08:15", 
+                                "IsLastStop": true, 
+                                "TrackName": "下本", 
+                                "Remarks": "引上線へ回送", 
+                                "Location_m": 0 
+                            } 
+                        ] 
+                    } 
+                ] 
+            }, 
+            { 
+                "AffectDate": "2023-03-18", 
+                "Name": "平B17行路", 
+                "Trains": [ 
+                    { 
+                        "TrainNumber": "1146M", 
+                        "BeginRemarks": "JRETS未収録", 
+                        "Direction": -1, 
+                        "TimetableRows": [ 
+                            { 
+                                "Departure": "8:19:", 
+                                "StationName": "土浦" 
+                            }, 
+                            { 
+                                "Arrive": "9:44:", 
+                                "IsLastStop": true, 
+                                "StationName": "品川" 
+                            } 
+                        ] 
+                    }, 
+                    { 
+                        "TrainNumber": "1157M", 
+                        "AfterRemarks": "(折返し乗継)\n(１１８０Ｍへ　１３：３５)", 
+                        "BeginRemarks": "<span style=\"color:#000000;\">①品川発線８番変　②東京着線７番変　③土浦着線下本変</span><br><span style=\"color:#ff0000;\">注意：龍ケ崎市で「ときわ65号」を退避せず、着線４番変</span>", 
+                        "CarCount": 10, 
+                        "Direction": 1, 
+                        "MaxSpeed": "110\nウエ～130", 
+                        "NominalTractiveCapacity": "E531系\n4M6T", 
+                        "SpeedType": "停電A19\nトテ～停電A20", 
+                        "TimetableRows": [ 
+                            { 
+                                "DriveTime_MM": 5, 
+                                "StationName": "品川", 
+                                "Departure": "10:55:", 
+                                "TrackName": "８", 
+                                "RunOutLimit": 35, 
+                                "Remarks": "発線8変", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 2, 
+                                "DriveTime_SS": 45, 
+                                "StationName": "新橋", 
+                                "Arrive": "11:00:", 
+                                "Departure": ":00:30", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 5, 
+                                "StationName": "東京", 
+                                "Arrive": ":03:15", 
+                                "Departure": ":05:", 
+                                "TrackName": "７", 
+                                "RunInLimit": 45, 
+                                "RunOutLimit": 55, 
+                                "Remarks": "着線7変", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 3, 
+                                "StationName": "上野", 
+                                "Arrive": "11:10:", 
+                                "Departure": "11:12:45", 
+                                "TrackName": "６", 
+                                "RunInLimit": 45, 
+                                "RunOutLimit": 35, 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 1, 
+                                "DriveTime_SS": 45, 
+                                "StationName": "日暮里", 
+                                "Arrive": "11:15:45", 
+                                "Departure": "11:16:15", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 2, 
+                                "DriveTime_SS": 30, 
+                                "StationName": "三河島", 
+                                "Arrive": ":18:", 
+                                "Departure": ":18:30", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 2, 
+                                "DriveTime_SS": 30, 
+                                "StationName": "南千住", 
+                                "Arrive": "11:21:", 
+                                "Departure": "11:21:30", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 4, 
+                                "DriveTime_SS": 45, 
+                                "StationName": "北千住", 
+                                "Arrive": "11:23:30", 
+                                "Departure": "11:24:", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 3, 
+                                "DriveTime_SS": 15, 
+                                "StationName": "金町", 
+                                "Arrive": "↓", 
+                                "Departure": ":28:45", 
+                                "IsPass": true, 
+                                "TrackName": "３", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 2, 
+                                "DriveTime_SS": 30, 
+                                "StationName": "松戸", 
+                                "Arrive": "11:32:", 
+                                "Departure": "11:32:30", 
+                                "TrackName": "１", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 2, 
+                                "StationName": "馬橋", 
+                                "Arrive": "↓", 
+                                "Departure": ":35:", 
+                                "IsPass": true, 
+                                "TrackName": "５", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 3, 
+                                "DriveTime_SS": 15, 
+                                "StationName": "北小金", 
+                                "Arrive": "↓", 
+                                "Departure": ":37:", 
+                                "IsPass": true, 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 2, 
+                                "StationName": "柏", 
+                                "Arrive": "11:40:15", 
+                                "Departure": "11:40:45", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 1, 
+                                "DriveTime_SS": 45, 
+                                "StationName": "北柏", 
+                                "Arrive": "↓", 
+                                "Departure": "11:42:45", 
+                                "IsPass": true, 
+                                "TrackName": "４", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 2, 
+                                "DriveTime_SS": 30, 
+                                "StationName": "我孫子", 
+                                "Arrive": "11:44:30", 
+                                "Departure": "11:45:", 
+                                "TrackName": "１", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 3, 
+                                "StationName": "天王台", 
+                                "Arrive": ":47:30", 
+                                "Departure": ":48:", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 4, 
+                                "DriveTime_SS": 15, 
+                                "StationName": "取手", 
+                                "Arrive": "11:51:", 
+                                "Departure": "11:51:30", 
+                                "TrackName": "６", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "Location_m": 0, 
+                                "RecordType": 2, 
+                                "StationName": "<span style=\"color:#5B7EE5;\">交　直　切　替</span>" 
+                            }, 
+                            { 
+                                "DriveTime_MM": 3, 
+                                "DriveTime_SS": 15, 
+                                "StationName": "藤代", 
+                                "Arrive": ":55:45", 
+                                "Departure": ":56:15", 
+                                "RunInLimit": 110, 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 4, 
+                                "DriveTime_SS": 15, 
+                                "StationName": "龍ケ崎市", 
+                                "Arrive": "11:59:30", 
+                                "Departure": "12:03:30", 
+                                "TrackName": "<span style=\"text-decoration:line-through;\">３</span>", 
+                                "Remarks": "後続遅れ発生\n着線4変", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 3, 
+                                "DriveTime_SS": 15, 
+                                "StationName": "牛久", 
+                                "Arrive": "12:07:45", 
+                                "Departure": "12:08:15", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 2, 
+                                "DriveTime_SS": 30, 
+                                "StationName": "ひたち野", 
+                                "FullName": "ひたち野うしく", 
+                                "Arrive": ":11:30", 
+                                "Departure": ":12:", 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "DriveTime_MM": 7, 
+                                "StationName": "荒川沖", 
+                                "Arrive": ":14:30", 
+                                "Departure": ":15:", 
+                                "RunInLimit": 120, 
+                                "RunOutLimit": 120, 
+                                "Location_m": 0 
+                            }, 
+                            { 
+                                "StationName": "土浦", 
+                                "Arrive": "12:22:", 
+                                "IsLastStop": true, 
+                                "TrackName": "<span style=\"text-decoration:line-through;\">上１</span>", 
+                                "Remarks": "着線下本変", 
+                                "Location_m": 0 
+                            } 
+                        ] 
+                    }, 
+                    { 
+                        "TrainNumber": "1180M", 
+                        "BeginRemarks": "JRETS未収録", 
+                        "Direction": -1, 
+                        "TimetableRows": [ 
+                            { 
+                                "Departure": "13:35:", 
+                                "StationName": "土浦" 
+                            }, 
+                            { 
+                                "Arrive": "14:59:", 
+                                "IsLastStop": true, 
+                                "StationName": "品川" 
+                            } 
+                        ] 
+                    }, 
+                    { 
+                        "TrainNumber": "1193M", 
+                        "BeginRemarks": "JRETS未収録", 
+                        "Direction": 1, 
+                        "TimetableRows": [ 
+                            { 
+                                "Departure": "16:17:30", 
+                                "StationName": "品川" 
+                            }, 
+                            { 
+                                "Arrive": "17:44:15", 
+                                "IsLastStop": true, 
+                                "StationName": "土浦" 
+                            } 
+                        ] 
+                    } 
+                ] 
+            } 
+        ] 
+    } 
+]
