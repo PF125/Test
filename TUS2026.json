@@ -3944,16 +3944,15 @@
                             { 
                                 "Arrive": ":34:30", 
                                 "Departure": ":35:", 
-                                "DriveTime_MM": 2, 
-                                "DriveTime_SS": 30, 
+                                "DriveTime_MM": 3, 
                                 "Location_m": 0, 
                                 "StationName": "茨目" 
                             }, 
                             { 
-                                "Arrive": ":37:30", 
-                                "Departure": ":38:", 
-                                "DriveTime_MM": 3, 
-                                "DriveTime_SS": 15, 
+                                "Arrive": ":38:", 
+                                "Departure": ":38:30", 
+                                "DriveTime_MM": 2, 
+                                "DriveTime_SS": 45, 
                                 "Location_m": 0, 
                                 "StationName": "安田" 
                             }, 
