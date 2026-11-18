@@ -201,7 +201,7 @@
               {
                 "Location_m": 0,
                 "RecordType": 2,
-                "StationName": "<span style=\"color:#5B7EE5;\">交</span>&emsp;<span style=\"color:#5B7EE5;\">直</span>&emsp;<span style=\"color:#5B7EE5;\">切</span>&emsp;<span style=\"color:#5B7EE5;\">替</span>"
+                "StationName": "<span style=\"color:#5B7EE5;\">交　直　切　替</span>"
               },
               {
                 "DriveTime_MM": 3,
@@ -520,7 +520,7 @@
               {
                 "Location_m": 0,
                 "RecordType": 2,
-                "StationName": "<span style=\"color:#5B7EE5;\">交</span>&emsp;<span style=\"color:#5B7EE5;\">直</span>&emsp;<span style=\"color:#5B7EE5;\">切</span>&emsp;<span style=\"color:#5B7EE5;\">替</span>"
+                "StationName": "<span style=\"color:#5B7EE5;\">交　直　切　替</span>"
               },
               {
                 "DriveTime_MM": 2,
@@ -827,7 +827,7 @@
               {
                 "Location_m": 0,
                 "RecordType": 2,
-                "StationName": "<span style=\"color:#5B7EE5;\">交</span>&emsp;<span style=\"color:#5B7EE5;\">直</span>&emsp;<span style=\"color:#5B7EE5;\">切</span>&emsp;<span style=\"color:#5B7EE5;\">替</span>"
+                "StationName": "<span style=\"color:#5B7EE5;\">交　直　切　替</span>"
               },
               {
                 "DriveTime_MM": 2,
@@ -1067,7 +1067,7 @@
               {
                 "Location_m": 0,
                 "RecordType": 2,
-                "StationName": "<span style=\"color:#5B7EE5;\">交</span>&emsp;<span style=\"color:#5B7EE5;\">直</span>&emsp;<span style=\"color:#5B7EE5;\">切</span>&emsp;<span style=\"color:#5B7EE5;\">替</span>"
+                "StationName": "<span style=\"color:#5B7EE5;\">交　直　切　替</span>"
               },
               {
                 "DriveTime_MM": 3,
